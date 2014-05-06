@@ -1,35 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://dergachev.github.io/blog/2013/11/01/hello-world/</loc>
-        <lastmod>2014-05-06T17:44:15+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dergachev.github.io/blog/2014/05/04/playing-with-octopress/</loc>
-        <lastmod>2014-05-06T17:44:15+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dergachev.github.io/blog/2014/05/04/spin-selling-seminar/</loc>
-        <lastmod>2014-05-06T17:44:15+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dergachev.github.io/blog/2014/05/04/hi-there-julien/</loc>
-        <lastmod>2014-05-06T17:44:15+00:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dergachev.github.io/blog/2014/05/06/test-post/</loc>
-        <lastmod>2014-05-06T22:24:23+00:00</lastmod>
-    </url>
-    <url>
         <loc>http://dergachev.github.io/robots.txt</loc>
         <lastmod>2014-05-06T17:44:15+00:00</lastmod>
     </url>
     <url>
         <loc>http://dergachev.github.io/</loc>
-        <lastmod>2014-05-06T22:24:23+00:00</lastmod>
+        <lastmod>2014-05-06T17:44:15+00:00</lastmod>
     </url>
     <url>
         <loc>http://dergachev.github.io/blog/archives/</loc>
-        <lastmod>2014-05-06T22:24:23+00:00</lastmod>
+        <lastmod>2014-05-06T17:44:15+00:00</lastmod>
     </url>
 </urlset>
