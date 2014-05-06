@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dergachev.github.io/atom.xml" rel="self"/>
   <link href="http://dergachev.github.io/"/>
-  <updated>2014-05-06T20:54:51+00:00</updated>
+  <updated>2014-05-06T22:25:10+00:00</updated>
   <id>http://dergachev.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post]]></title>
+    <link href="http://dergachev.github.io/blog/2014/05/06/test-post/"/>
+    <updated>2014-05-06T22:24:00+00:00</updated>
+    <id>http://dergachev.github.io/blog/2014/05/06/test-post</id>
+    <content type="html"><![CDATA[<p>Here&rsquo;s a test post</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hi There Julien]]></title>
