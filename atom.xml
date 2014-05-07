@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dergachev.github.io/atom.xml" rel="self"/>
   <link href="http://dergachev.github.io/"/>
-  <updated>2014-05-07T19:09:56+00:00</updated>
+  <updated>2014-05-07T19:48:47+00:00</updated>
   <id>http://dergachev.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,51 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[D Post]]></title>
+    <link href="http://dergachev.github.io/blog/2014/05/07/d-post/"/>
+    <updated>2014-05-07T19:48:00+00:00</updated>
+    <id>http://dergachev.github.io/blog/2014/05/07/d-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[C Test]]></title>
+    <link href="http://dergachev.github.io/blog/2014/05/07/c-test/"/>
+    <updated>2014-05-07T19:47:00+00:00</updated>
+    <id>http://dergachev.github.io/blog/2014/05/07/c-test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[B Test]]></title>
+    <link href="http://dergachev.github.io/blog/2014/05/07/b-test/"/>
+    <updated>2014-05-07T19:46:00+00:00</updated>
+    <id>http://dergachev.github.io/blog/2014/05/07/b-test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Test]]></title>
+    <link href="http://dergachev.github.io/blog/2014/05/07/a-test/"/>
+    <updated>2014-05-07T19:46:00+00:00</updated>
+    <id>http://dergachev.github.io/blog/2014/05/07/a-test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post 3]]></title>
+    <link href="http://dergachev.github.io/blog/2014/05/07/test-post-3/"/>
+    <updated>2014-05-07T19:39:00+00:00</updated>
+    <id>http://dergachev.github.io/blog/2014/05/07/test-post-3</id>
+    <content type="html"><![CDATA[<p>This is a test post, again.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Test 2]]></title>
