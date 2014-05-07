@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Alex Dergachev's Blog]]></title>
-  <link href="http://dergachev.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Docker | Alex Dergachev's Blog]]></title>
+  <link href="http://dergachev.github.io/blog/categories/docker/atom.xml" rel="self"/>
   <link href="http://dergachev.github.io/"/>
   <updated>2014-05-07T21:15:57+00:00</updated>
   <id>http://dergachev.github.io/</id>
